@@ -45,10 +45,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConsoleLogger.cs" />
+    <Compile Include="GetArray.cs" />
+    <Compile Include="GetEnumValues.cs" />
+    <Compile Include="ILogger.cs" />
+    <Compile Include="ISortable.cs" />
+    <Compile Include="ISwapable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Roles.cs" />
+    <Compile Include="Sorter.cs" />
+    <Compile Include="SorterFactory.cs" />
     <Compile Include="SortingAlgorithmTester.cs" />
+    <Compile Include="Swapper.cs" />
+    <Compile Include="SwapperFactory.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -5,3 +5,17 @@ C:\Users\User\Documents\Crossworx\DotNetAcademy\SortingApplication0Start\Sorting
 C:\Users\User\Documents\Crossworx\DotNetAcademy\SortingApplication0Start\SortingApplication\obj\Debug\SortingApplication.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\Crossworx\DotNetAcademy\SortingApplication0Start\SortingApplication\obj\Debug\SortingApplication.exe
 C:\Users\User\Documents\Crossworx\DotNetAcademy\SortingApplication0Start\SortingApplication\obj\Debug\SortingApplication.pdb
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest\SortingApplication\bin\Debug\SortingApplication.exe.config
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest\SortingApplication\bin\Debug\SortingApplication.exe
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest\SortingApplication\bin\Debug\SortingApplication.pdb
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest\SortingApplication\obj\Debug\SortingApplication.csprojAssemblyReference.cache
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest\SortingApplication\obj\Debug\SortingApplication.csproj.CoreCompileInputs.cache
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest\SortingApplication\obj\Debug\SortingApplication.exe
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest\SortingApplication\obj\Debug\SortingApplication.pdb
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest - 2\SortingApplication\bin\Debug\SortingApplication.exe.config
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest - 2\SortingApplication\bin\Debug\SortingApplication.exe
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest - 2\SortingApplication\bin\Debug\SortingApplication.pdb
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest - 2\SortingApplication\obj\Debug\SortingApplication.csprojAssemblyReference.cache
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest - 2\SortingApplication\obj\Debug\SortingApplication.csproj.CoreCompileInputs.cache
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest - 2\SortingApplication\obj\Debug\SortingApplication.exe
+C:\Users\tarsh\Documents\dotNetAcademy\SolidTest - 2\SortingApplication\obj\Debug\SortingApplication.pdb
